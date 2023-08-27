@@ -7,5 +7,5 @@ function scope() {
 }
 
 scope()
-  console.log(parent );
+  console.log(parent );  //javaScript Function Scope. we can test that child can't console.log out side the function{} but parent can.
 console.log(child);
